@@ -9,7 +9,7 @@
 <h3 align="center">🧠 Conversational AI | 🤖 LLMs | 📊 Predictive Analytics</h3>
 <h3 align="center">🚀 Welcome to my portfolio!</h3>
 
-# 👋 Hi, I'm Günal Hınçal — AI Engineer Turning Ideas Into Solutions
+## 👋 Hi, I'm Günal Hınçal — AI Engineer Turning Ideas Into Solutions
 
 Welcome to my personal portfolio!  
 I'm an AI/ML Engineer passionate about transforming complex challenges into real-world solutions using state-of-the-art technologies. 🚀
@@ -99,6 +99,10 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 ---
 
 ## 💡 Other Projects
+
+<!-- PROJECTS:START -->
+Buraya script otomatik yazacak.
+<!-- PROJECTS:END -->
 
 - 🏡 **House Price Prediction** *(Coming Soon 🚧)*  
 - ⚽ **Scoutium Football Talent Classification** *(Coming Soon 🚧)*  

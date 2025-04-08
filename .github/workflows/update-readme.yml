@@ -1,0 +1,38 @@
+
+# This workflow updates the README file with the list of projects in the repository.
+# It runs daily at 06:00 UTC and can also be triggered manually.
+# The script `update_readme.py` is responsible for generating the list of projects and updating the README file.
+
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Her gün sabah 06:00'da UTC
+  workflow_dispatch: # Manuel tetikleme
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        run: python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m '♻️ Update project list automatically'
+          git push
