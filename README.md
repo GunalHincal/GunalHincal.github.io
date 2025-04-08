@@ -20,6 +20,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 <br>
+
 ## 🧭 Navigation
 
 - [GitHub Stats](#github-stats)
@@ -33,6 +34,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 <br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,6 +47,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 <br>
+
 ## 🎖️ Tech Stack & Badges
 
 <p align="center">
@@ -58,6 +61,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 <br>
+
 ## 🔍 What I Do
 
 - 🤖 **Conversational AI & Chatbot Development**  
@@ -77,6 +81,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 <br>
+
 ## 🚀 Highlight Projects
 
 ### 📖 Megapik Chatbot *(Coming Soon 🚧)*
@@ -102,6 +107,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 <br>
+
 ## 💡 Other Projects
 
 <!-- PROJECTS:START -->
@@ -116,6 +122,7 @@ Buraya script otomatik yazacak.
 
 ---
 <br>
+
 ## 🌍 About Me
 
 With 15+ years of teaching experience and 7 years living in Qatar, I bring a multicultural mindset and strong leadership skills to every project.  
@@ -123,6 +130,7 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
 
 ---
 <br>
+
 ## 📫 Get in Touch
 
 <p align="center">
