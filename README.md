@@ -22,6 +22,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 
+<br>
+
 ## 🧭 Navigation
 
 - [GitHub Stats](#github-stats)
@@ -37,6 +39,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 
+<br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -50,6 +54,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 <br>
 
 ---
+
+<br>
 
 ## 🎖️ Tech Stack & Badges
 
@@ -65,6 +71,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 <br>
 
 ---
+
+<br>
 
 ## 🔍 What I Do
 
@@ -86,6 +94,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 <br>
 
 ---
+
+<br>
 
 ## 🚀 Highlight Projects
 
@@ -114,6 +124,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 
+<br>
+
 ## 💡 Other Projects
 
 <!-- PROJECTS:START -->
@@ -129,6 +141,8 @@ Buraya script otomatik yazacak.
 <br>
 
 ---
+
+<br>
 
 ## 🌍 About Me
 
@@ -155,6 +169,7 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
 </p>
 
 ---
+
 
 ## 👀 Visitor Counter
 
