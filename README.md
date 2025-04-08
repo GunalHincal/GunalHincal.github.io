@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A248&center=true&vCenter=true&multiline=true&lines=AI+Engineer;Transforming+Ideas+Into+Solutions;Conversational+AI+|+LLMs+|+Predictive+Analytics;Welcome+to+my+portfolio+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7A248&center=true&vCenter=true&multiline=true&lines=AI+Engineer;Turning+Ideas+Into+Solutions" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/banner.png" alt="Banner" />
 </p>
+
+<h3 align="center">🧠 Conversational AI | 🤖 LLMs | 📊 Predictive Analytics</h3>
+<h3 align="center">🚀 Welcome to my portfolio!</h3>
 
 # 👋 Hi, I'm Günal Hınçal — AI Engineer Turning Ideas Into Solutions
 
@@ -13,11 +16,27 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ---
 
+## 🧭 Navigation
+
+- [GitHub Stats](#github-stats)
+- [Tech Stack](#tech-stack--badges)
+- [What I Do](#what-i-do)
+- [Highlight Projects](#highlight-projects)
+- [Other Projects](#other-projects)
+- [About Me](#about-me)
+- [Contact](#get-in-touch)
+- [Visitor Counter](#visitor-counter)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GunalHincal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GunalHincal&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GunalHincal&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GunalHincal&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GunalHincal&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GunalHincal&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GunalHincal&theme=radical&utcOffset=3" />
 </p>
 
 ---
@@ -37,55 +56,55 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ## 🔍 What I Do
 
-- **Conversational AI & Chatbot Development**  
+- 🤖 **Conversational AI & Chatbot Development**  
   Intelligent assistants with RAG pipelines and LLM integrations.
 
-- **Natural Language Processing (NLP)**  
+- 📝 **Natural Language Processing (NLP)**  
   Sentiment analysis, text classification, and automation pipelines.
 
-- **Predictive Analytics & ML Pipelines**  
+- 📊 **Predictive Analytics & ML Pipelines**  
   End-to-end ML solutions with hyperparameter tuning and deployment.
 
-- **Computer Vision & OCR Automation**  
+- 🖼️ **Computer Vision & OCR Automation**  
   Document digitization with scalable REST API services.
 
-- **Speech Recognition & Automation**  
+- 🎙️ **Speech Recognition & Automation**  
   Speech-to-text pipelines with Azure Speech Studio & OpenAI Whisper.
 
 ---
 
 ## 🚀 Highlight Projects
 
-### 📖 Megapik Chatbot
-AI-powered chatbot for interactive reading experiences using Gemini API & ChromaDB.  
+### 📖 Megapik Chatbot *(Coming Soon 🚧)*
+<img src="https://img.icons8.com/color/48/000000/chatbot.png" width="24"/> AI-powered chatbot for interactive reading experiences using Gemini API & ChromaDB.  
 [🔗 Learn More](#)
 
-### 🩺 Diabetes Prediction Pipeline
-Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.  
+### 🩺 Diabetes Prediction Pipeline *(Coming Soon 🚧)*
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/> Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.  
 **ROC-AUC:** 0.829  
 [🔗 Learn More](#)
 
-### 📝 Speech-to-Text Automation
-Automated subtitle and translation system for educational videos.  
+### 📝 Speech-to-Text Automation *(Coming Soon 🚧)*
+<img src="https://img.icons8.com/color/48/000000/microphone.png" width="24"/> Automated subtitle and translation system for educational videos.  
 [🔗 Learn More](#)
 
-### 🧾 Azure OCR Automation
-Scalable OCR API for text extraction and document digitization.  
+### 🧾 Azure OCR Automation *(Coming Soon 🚧)*
+<img src="https://img.icons8.com/color/48/000000/document--v1.png" width="24"/> Scalable OCR API for text extraction and document digitization.  
 [🔗 Learn More](#)
 
-### 🧠 Amazon Review Sentiment Analysis
-NLP solution achieving **91% accuracy** on customer feedback.  
+### 🧠 Amazon Review Sentiment Analysis *(Coming Soon 🚧)*
+<img src="https://img.icons8.com/color/48/000000/customer-feedback.png" width="24"/> NLP solution achieving **91% accuracy** on customer feedback.  
 [🔗 Learn More](#)
 
 ---
 
 ## 💡 Other Projects
 
-- 🏡 **House Price Prediction**  
-- ⚽ **Scoutium Football Talent Classification**  
-- 🔒 **Caesar Cipher Encoder/Decoder**  
-- 🛒 **Recommendation Systems with ARL**  
-- 📦 **Customer Churn Prediction for Telco**
+- 🏡 **House Price Prediction** *(Coming Soon 🚧)*  
+- ⚽ **Scoutium Football Talent Classification** *(Coming Soon 🚧)*  
+- 🔒 **Caesar Cipher Encoder/Decoder** *(Coming Soon 🚧)*  
+- 🛒 **Recommendation Systems with ARL** *(Coming Soon 🚧)*  
+- 📦 **Customer Churn Prediction for Telco** *(Coming Soon 🚧)*  
 
 ---
 
@@ -99,18 +118,33 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="https://linkedin.com/in/gunalhincal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/gunalhincal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:gunalhincal@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:gunalhincal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/GunalHincal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/GunalHincal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-> "Turning cutting-edge models into real-world impact."
+## 👀 Visitor Counter
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GunalHincal&style=flat-square&color=orange" alt="Visitor Counter" />
+</p>
+
+---
+
+## 🙌 Thanks for visiting!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+</p>
+
+> *✨ "Turning cutting-edge models into real-world impact."*
+
+---
