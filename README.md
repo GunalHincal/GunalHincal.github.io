@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A248&lines=AI+Engineer+Transforming+Ideas+Into+Solutions;Conversational+AI+%7C+LLMs+%7C+Predictive+Analytics;Welcome+to+my+portfolio+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A248&center=true&vCenter=true&multiline=true&lines=AI+Engineer;Transforming+Ideas+Into+Solutions;Conversational+AI+|+LLMs+|+Predictive+Analytics;Welcome+to+my+portfolio+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/GunalHincal/GunalHincal/blob/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/banner.png" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Günal Hınçal — AI Engineer Turning Ideas Into Solutions
