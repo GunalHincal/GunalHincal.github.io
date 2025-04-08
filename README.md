@@ -159,11 +159,17 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
   <a href="https://linkedin.com/in/gunalhincal" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> LinkedIn
   </a>
+  &nbsp; &nbsp;
   <a href="mailto:gunalhincal@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> E-mail
   </a>
+  &nbsp; &nbsp;
   <a href="https://github.com/GunalHincal" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="20"/> GitHub
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://medium.com/@hincalgunal" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/24/000000/medium-logo.png" width="20"/> Medium
   </a>
 </p>
 
