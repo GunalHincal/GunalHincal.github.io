@@ -18,8 +18,8 @@
 Welcome to my personal portfolio!  
 I'm an AI/ML Engineer passionate about transforming complex challenges into real-world solutions using state-of-the-art technologies. 🚀
 
----
 <br>
+---
 
 ## 🧭 Navigation
 
@@ -32,8 +32,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 - [Contact](#get-in-touch)
 - [Visitor Counter](#visitor-counter)
 
----
 <br>
+---
 
 ## 📊 GitHub Stats
 
@@ -45,8 +45,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GunalHincal&theme=radical&utcOffset=3" />
 </p>
 
----
 <br>
+---
 
 ## 🎖️ Tech Stack & Badges
 
@@ -59,8 +59,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 <br>
+---
 
 ## 🔍 What I Do
 
@@ -79,8 +79,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 - 🎙️ **Speech Recognition & Automation**  
   Speech-to-text pipelines with Azure Speech Studio & OpenAI Whisper.
 
----
 <br>
+---
 
 ## 🚀 Highlight Projects
 
@@ -105,8 +105,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 <img src="https://img.icons8.com/color/48/000000/customer-feedback.png" width="24"/> NLP solution achieving **91% accuracy** on customer feedback.  
 [🔗 Learn More](#)
 
----
 <br>
+---
 
 ## 💡 Other Projects
 
@@ -120,16 +120,16 @@ Buraya script otomatik yazacak.
 - 🛒 **Recommendation Systems with ARL** *(Coming Soon 🚧)*  
 - 📦 **Customer Churn Prediction for Telco** *(Coming Soon 🚧)*  
 
----
 <br>
+---
 
 ## 🌍 About Me
 
 With 15+ years of teaching experience and 7 years living in Qatar, I bring a multicultural mindset and strong leadership skills to every project.  
 I thrive in dynamic environments and believe in continuous learning to stay at the forefront of AI advancements.
 
----
 <br>
+---
 
 ## 📫 Get in Touch
 
