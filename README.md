@@ -157,16 +157,16 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
 
 <p align="center">
   <a href="https://linkedin.com/in/gunalhincal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> LinkedIn
   </a>
   <a href="mailto:gunalhincal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> Email
   </a>
   <a href="https://github.com/GunalHincal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="20"/> GitHub
   </a>
-
 </p>
+
 
 ---
 
