@@ -1,8 +1,5 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7A248&center=true&vCenter=true&multiline=true&lines=AI+Engineer;Turning+Ideas+Into+Solutions" 
-    height="100"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&pause=1000&color=F7A248&center=true&vCenter=true&multiline=true&lines=AI+Engineer;Turning+Ideas+Into+Solutions" />
 </p>
 
 <br>
