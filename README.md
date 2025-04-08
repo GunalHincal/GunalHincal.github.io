@@ -160,7 +160,7 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> LinkedIn
   </a>
   <a href="mailto:gunalhincal@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> Email
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> E-mail
   </a>
   <a href="https://github.com/GunalHincal" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="20"/> GitHub
