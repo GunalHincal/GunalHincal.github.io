@@ -19,6 +19,7 @@ Welcome to my personal portfolio!
 I'm an AI/ML Engineer passionate about transforming complex challenges into real-world solutions using state-of-the-art technologies. 🚀
 
 <br>
+
 ---
 
 ## 🧭 Navigation
@@ -33,6 +34,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 - [Visitor Counter](#visitor-counter)
 
 <br>
+
 ---
 
 ## 📊 GitHub Stats
@@ -46,6 +48,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 </p>
 
 <br>
+
 ---
 
 ## 🎖️ Tech Stack & Badges
@@ -60,6 +63,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 </p>
 
 <br>
+
 ---
 
 ## 🔍 What I Do
@@ -80,6 +84,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
   Speech-to-text pipelines with Azure Speech Studio & OpenAI Whisper.
 
 <br>
+
 ---
 
 ## 🚀 Highlight Projects
@@ -106,6 +111,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 [🔗 Learn More](#)
 
 <br>
+
 ---
 
 ## 💡 Other Projects
@@ -121,6 +127,7 @@ Buraya script otomatik yazacak.
 - 📦 **Customer Churn Prediction for Telco** *(Coming Soon 🚧)*  
 
 <br>
+
 ---
 
 ## 🌍 About Me
@@ -129,6 +136,7 @@ With 15+ years of teaching experience and 7 years living in Qatar, I bring a mul
 I thrive in dynamic environments and believe in continuous learning to stay at the forefront of AI advancements.
 
 <br>
+
 ---
 
 ## 📫 Get in Touch
@@ -143,6 +151,7 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
   <a href="https://github.com/GunalHincal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
+
 </p>
 
 ---
