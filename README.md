@@ -7,8 +7,12 @@
   <img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/banner.png" alt="Banner" />
 </p>
 
+<br>
+
 <h3 align="center">🧠 Conversational AI | 🤖 LLMs | 📊 Predictive Analytics</h3>
 <h3 align="center">🚀 Welcome to my portfolio!</h3>
+
+<br><br>
 
 ## 👋 Hi, I'm Günal Hınçal — AI Engineer Turning Ideas Into Solutions
 
