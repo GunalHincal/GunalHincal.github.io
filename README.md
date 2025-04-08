@@ -99,11 +99,11 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ## 🚀 Highlight Projects
 
-### 📖 Megapik Chatbot *(Coming Soon 🚧)*
+### 📖 Megapik Chatbot
 <img src="https://img.icons8.com/color/48/000000/chatbot.png" width="24"/> AI-powered chatbot for interactive reading experiences using Gemini API & ChromaDB.  
 [🔗 Learn More](https://github.com/GunalHincal/Megapik_Yeniden_Chatbot)
 
-### 🩺 Diabetes Prediction Pipeline *(Coming Soon 🚧)*
+### 🩺 Diabetes Prediction Pipeline
 <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/> Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.  
 **ROC-AUC:** 0.829  
 [🔗 Learn More](https://github.com/GunalHincal/Diabetes-Prediction-ML-Project)
@@ -134,7 +134,7 @@ Buraya script otomatik yazacak.
 
 - 🏡 **House Price Prediction** [*(Coming Soon 🚧)*](*)  
 - ⚽ **Scoutium Football Talent Classification** [*(Coming Soon 🚧)*](*)  
-- 🔒 **Caesar Cipher Encoder/Decoder** [🔗 Learn More](https://github.com/GunalHincal/Caesar-Cipher-Turkish)  
+- 🔒 **Caesar Cipher Encoder/Decoder** [🔗 Learn More](https://github.com/GunalHincal/Caesar-Cipher-Turkish)
 - 🛒 **Recommendation Systems with ARL** [*(Coming Soon 🚧)*](*)  
 - 📦 **Customer Churn Prediction for Telco** [*(Coming Soon 🚧)*](*)  
 
