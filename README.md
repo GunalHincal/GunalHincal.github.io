@@ -7,12 +7,11 @@
   <img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/banner.png" alt="Banner" />
 </p>
 
-<br>
 
 <h3 align="center">🧠 Conversational AI | 🤖 LLMs | 📊 Predictive Analytics</h3>
 <h3 align="center">🚀 Welcome to my portfolio!</h3>
 
-<br><br>
+<br>
 
 ## 👋 Hi, I'm Günal Hınçal — AI Engineer Turning Ideas Into Solutions
 
@@ -20,7 +19,7 @@ Welcome to my personal portfolio!
 I'm an AI/ML Engineer passionate about transforming complex challenges into real-world solutions using state-of-the-art technologies. 🚀
 
 ---
-
+<br>
 ## 🧭 Navigation
 
 - [GitHub Stats](#github-stats)
@@ -33,7 +32,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 - [Visitor Counter](#visitor-counter)
 
 ---
-
+<br>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,7 +44,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 </p>
 
 ---
-
+<br>
 ## 🎖️ Tech Stack & Badges
 
 <p align="center">
@@ -58,7 +57,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 </p>
 
 ---
-
+<br>
 ## 🔍 What I Do
 
 - 🤖 **Conversational AI & Chatbot Development**  
@@ -77,7 +76,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
   Speech-to-text pipelines with Azure Speech Studio & OpenAI Whisper.
 
 ---
-
+<br>
 ## 🚀 Highlight Projects
 
 ### 📖 Megapik Chatbot *(Coming Soon 🚧)*
@@ -102,7 +101,7 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 [🔗 Learn More](#)
 
 ---
-
+<br>
 ## 💡 Other Projects
 
 <!-- PROJECTS:START -->
@@ -116,14 +115,14 @@ Buraya script otomatik yazacak.
 - 📦 **Customer Churn Prediction for Telco** *(Coming Soon 🚧)*  
 
 ---
-
+<br>
 ## 🌍 About Me
 
 With 15+ years of teaching experience and 7 years living in Qatar, I bring a multicultural mindset and strong leadership skills to every project.  
 I thrive in dynamic environments and believe in continuous learning to stay at the forefront of AI advancements.
 
 ---
-
+<br>
 ## 📫 Get in Touch
 
 <p align="center">
