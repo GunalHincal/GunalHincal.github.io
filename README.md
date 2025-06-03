@@ -91,35 +91,41 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ### 📖 Megapik Chatbot
 
-🤖 AI-powered chatbot for interactive reading experiences using Gemini API & ChromaDB.
+🤖 AI-powered chatbot for interactive reading experiences using Gemini API & ChromaDB. 
+
 [🔗 Learn More](https://github.com/GunalHincal/Megapik_Yeniden_Chatbot)
 
 ### 🎧 Whisper Transcript & Subtitle Generator
 
-🗣️ Automated transcription and subtitle generation app for videos and audio files using OpenAI Whisper. ⏳ While processing, users can enjoy integrated mini-games like **Tic-Tac-Toe** , **Snake** , or **BattleStar** — designed to make waiting fun!
+🗣️ Automated transcription and subtitle generation app for videos and audio files using OpenAI Whisper. ⏳ While processing, users can enjoy integrated mini-games like **Tic-Tac-Toe** , **Snake** , or **BattleStar** — designed to make waiting fun! 
 
 [🔗 Coming Soon]()
 
 ### 📝 Speech-to-Text Automation
 
-`<img src="https://img.icons8.com/color/48/000000/microphone.png" width="24"/>` Automated subtitle and translation system for educational videos.
+`<img src="https://img.icons8.com/color/48/000000/microphone.png" width="24"/>` Automated subtitle and translation system for educational videos. 
+
 [🔗 Learn More](https://github.com/GunalHincal/whisper-audio-to-text-app)
 
 ### 🧾 Azure OCR Automation
 
-`<img src="https://img.icons8.com/color/48/000000/document--v1.png" width="24"/>` Scalable OCR API for text extraction and document digitization.
+`<img src="https://img.icons8.com/color/48/000000/document--v1.png" width="24"/>` Scalable OCR API for text extraction and document digitization. 
+
 [🔗 Learn More](https://github.com/GunalHincal/azure-ocr-api)
 
 ### 🧠 Amazon Review Sentiment Analysis
 
-💬 NLP solution achieving **91% accuracy** on customer feedback.
+💬 NLP solution achieving **91% accuracy** on customer feedback. 
+
 [🔗 Learn More](https://github.com/GunalHincal/NLP-Sentiment-Analysis-Amazon)
 
 ### 🩺 Diabetes Prediction Pipeline
 
 `<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/>` Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.
-**ROC-AUC:** 0.829
+**ROC-AUC:** 0.829 
+
 [🔗 Learn More](https://github.com/GunalHincal/Diabetes-Prediction-ML-Project)
+
 
 ---
 
@@ -131,11 +137,11 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 <!-- PROJECTS:END -->
 
-- 🏡 **House Price Prediction** [*(Coming Soon 🚧)*](*)
-- ⚽ **Scoutium Football Talent Classification** [*(Coming Soon 🚧)*](*)
+- 🏡 **House Price Prediction** 🔗[Coming Soon 🚧]()
+- ⚽ **Scoutium Football Talent Classification** 🔗[Coming Soon 🚧]()
 - 🔒 **Caesar Cipher Encoder/Decoder** [🔗 Learn More](https://github.com/GunalHincal/Caesar-Cipher-Turkish)
-- 🛒 **Recommendation Systems with ARL** [*(Coming Soon 🚧)*](*)
-- 📦 **Customer Churn Prediction for Telco** [*(Coming Soon 🚧)*](*)
+- 🛒 **Recommendation Systems with ARL** 🔗[Coming Soon 🚧]()
+- 📦 **Customer Churn Prediction for Telco** 🔗[Coming Soon 🚧]()
 
 <br>
 
@@ -145,8 +151,11 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ## 🌍 About Me
 
-With 15+ years of teaching experience and 7 years living in Qatar, I bring a multicultural mindset and strong leadership skills to every project.
-I thrive in dynamic environments and believe in continuous learning to stay at the forefront of AI advancements.
+With 15+ years of teaching experience and 7 years of living in Qatar, I bring a multicultural perspective, adaptability, and strong communication skills to every project.
+
+After transitioning into the AI/ML field, I have developed and deployed intelligent systems across domains such as education, healthcare, and customer service.
+
+I thrive in fast-paced, cross-disciplinary environments and believe in lifelong learning to stay ahead in AI innovation.
 
 <br>
 
