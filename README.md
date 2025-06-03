@@ -103,13 +103,13 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ### 📝 Speech-to-Text Automation
 
-`<img src="https://img.icons8.com/color/48/000000/microphone.png" width="24"/>` Automated subtitle and translation system for educational videos. 
+🎙️ Automated subtitle and translation system for educational videos.
 
 [🔗 Learn More](https://github.com/GunalHincal/whisper-audio-to-text-app)
 
 ### 🧾 Azure OCR Automation
 
-`<img src="https://img.icons8.com/color/48/000000/document--v1.png" width="24"/>` Scalable OCR API for text extraction and document digitization. 
+📄 Scalable OCR API for text extraction and document digitization.
 
 [🔗 Learn More](https://github.com/GunalHincal/azure-ocr-api)
 
@@ -121,8 +121,8 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ### 🩺 Diabetes Prediction Pipeline
 
-`<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/>` Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.
-**ROC-AUC:** 0.829 
+🧪 Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.
+**ROC-AUC:** 0.829
 
 [🔗 Learn More](https://github.com/GunalHincal/Diabetes-Prediction-ML-Project)
 
