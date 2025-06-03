@@ -2,11 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7A248&center=true&vCenter=true&multiline=true&lines=Generative+AI+Engineer" />
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/banner.png" alt="Banner" />
 </p>
-
 
 <h3 align="center">🧠 Conversational AI | 🤖 LLMs | 📊 Predictive Analytics</h3>
 <h3 align="center">🚀 Welcome to my portfolio!</h3>
@@ -15,7 +13,7 @@
 
 ## 👋 Hi, I'm Günal Hınçal — AI Engineer Turning Ideas Into Solutions
 
-Welcome to my personal portfolio!  
+Welcome to my personal portfolio!
 I'm an AI/ML Engineer passionate about transforming complex challenges into real-world solutions using state-of-the-art technologies. 🚀
 
 <br>
@@ -76,19 +74,11 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 
 ## 🔍 What I Do
 
-- 🤖 **Conversational AI & Chatbot Development**  
-  Intelligent assistants with RAG pipelines and LLM integrations.
-
-- 📝 **Natural Language Processing (NLP)**  
-  Sentiment analysis, text classification, and automation pipelines.
-
-- 📊 **Predictive Analytics & ML Pipelines**  
-  End-to-end ML solutions with hyperparameter tuning and deployment.
-
-- 🖼️ **Computer Vision & OCR Automation**  
-  Document digitization with scalable REST API services.
-
-- 🎙️ **Speech Recognition & Automation**  
+- 🤖 **Conversational AI & Chatbot Development**Intelligent assistants with RAG pipelines and LLM integrations.
+- 📝 **Natural Language Processing (NLP)**Sentiment analysis, text classification, and automation pipelines.
+- 📊 **Predictive Analytics & ML Pipelines**End-to-end ML solutions with hyperparameter tuning and deployment.
+- 🖼️ **Computer Vision & OCR Automation**Document digitization with scalable REST API services.
+- 🎙️ **Speech Recognition & Automation**
   Speech-to-text pipelines with Azure Speech Studio & OpenAI Whisper.
 
 <br>
@@ -100,27 +90,36 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 ## 🚀 Highlight Projects
 
 ### 📖 Megapik Chatbot
-<img src="https://img.icons8.com/color/48/000000/chatbot.png" width="24"/> AI-powered chatbot for interactive reading experiences using Gemini API & ChromaDB.  
+
+🤖 AI-powered chatbot for interactive reading experiences using Gemini API & ChromaDB.
 [🔗 Learn More](https://github.com/GunalHincal/Megapik_Yeniden_Chatbot)
 
-### 🩺 Diabetes Prediction Pipeline
-<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/> Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.  
-**ROC-AUC:** 0.829  
-[🔗 Learn More](https://github.com/GunalHincal/Diabetes-Prediction-ML-Project)
+### 🎧 Whisper Transcript & Subtitle Generator
+
+🗣️ Automated transcription and subtitle generation app for videos and audio files using OpenAI Whisper. ⏳ While processing, users can enjoy integrated mini-games like **Tic-Tac-Toe** , **Snake** , or **BattleStar** — designed to make waiting fun!
+
+[🔗 Coming Soon]()
 
 ### 📝 Speech-to-Text Automation
-<img src="https://img.icons8.com/color/48/000000/microphone.png" width="24"/> Automated subtitle and translation system for educational videos.  
+
+`<img src="https://img.icons8.com/color/48/000000/microphone.png" width="24"/>` Automated subtitle and translation system for educational videos.
 [🔗 Learn More](https://github.com/GunalHincal/whisper-audio-to-text-app)
 
 ### 🧾 Azure OCR Automation
-<img src="https://img.icons8.com/color/48/000000/document--v1.png" width="24"/> Scalable OCR API for text extraction and document digitization.  
+
+`<img src="https://img.icons8.com/color/48/000000/document--v1.png" width="24"/>` Scalable OCR API for text extraction and document digitization.
 [🔗 Learn More](https://github.com/GunalHincal/azure-ocr-api)
 
 ### 🧠 Amazon Review Sentiment Analysis
-<img src="https://img.icons8.com/color/48/000000/customer-feedback.png" width="24"/> NLP solution achieving **91% accuracy** on customer feedback.  
+
+💬 NLP solution achieving **91% accuracy** on customer feedback.
 [🔗 Learn More](https://github.com/GunalHincal/NLP-Sentiment-Analysis-Amazon)
 
-<br>
+### 🩺 Diabetes Prediction Pipeline
+
+`<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/>` Full ML pipeline with feature engineering, hyperparameter optimization, and deployment.
+**ROC-AUC:** 0.829
+[🔗 Learn More](https://github.com/GunalHincal/Diabetes-Prediction-ML-Project)
 
 ---
 
@@ -129,14 +128,14 @@ I'm an AI/ML Engineer passionate about transforming complex challenges into real
 ## 💡 Other Projects
 
 <!-- PROJECTS:START -->
-Buraya script otomatik yazacak.
+
 <!-- PROJECTS:END -->
 
-- 🏡 **House Price Prediction** [*(Coming Soon 🚧)*](*)  
-- ⚽ **Scoutium Football Talent Classification** [*(Coming Soon 🚧)*](*)  
+- 🏡 **House Price Prediction** [*(Coming Soon 🚧)*](*)
+- ⚽ **Scoutium Football Talent Classification** [*(Coming Soon 🚧)*](*)
 - 🔒 **Caesar Cipher Encoder/Decoder** [🔗 Learn More](https://github.com/GunalHincal/Caesar-Cipher-Turkish)
-- 🛒 **Recommendation Systems with ARL** [*(Coming Soon 🚧)*](*)  
-- 📦 **Customer Churn Prediction for Telco** [*(Coming Soon 🚧)*](*)  
+- 🛒 **Recommendation Systems with ARL** [*(Coming Soon 🚧)*](*)
+- 📦 **Customer Churn Prediction for Telco** [*(Coming Soon 🚧)*](*)
 
 <br>
 
@@ -146,7 +145,7 @@ Buraya script otomatik yazacak.
 
 ## 🌍 About Me
 
-With 15+ years of teaching experience and 7 years living in Qatar, I bring a multicultural mindset and strong leadership skills to every project.  
+With 15+ years of teaching experience and 7 years living in Qatar, I bring a multicultural mindset and strong leadership skills to every project.
 I thrive in dynamic environments and believe in continuous learning to stay at the forefront of AI advancements.
 
 <br>
@@ -159,23 +158,21 @@ I thrive in dynamic environments and believe in continuous learning to stay at t
   <a href="https://linkedin.com/in/gunalhincal" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> LinkedIn
   </a>
-  &nbsp; &nbsp;
+     
   <a href="mailto:gunalhincal@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> E-mail
   </a>
-  &nbsp; &nbsp;
+     
   <a href="https://github.com/GunalHincal" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="20"/> GitHub
   </a>
-  &nbsp; &nbsp;
+     
   <a href="https://medium.com/@hincalgunal" target="_blank">
     <img src="https://img.icons8.com/material-outlined/24/000000/medium-logo.png" width="20"/> Medium
   </a>
 </p>
 
-
 ---
-
 
 ## 👀 Visitor Counter
 
