@@ -46,9 +46,7 @@
 
 ## 👋 `01` · About
 
-<table>
-<tr>
-<td width="68%" valign="top">
+<img src="assets/gh.JPG" align="right" width="300" alt="Günal Hınçal" />
 
 I'm an **AI-focused Business Analyst** and data professional with hands-on experience in Generative AI solutions, LLM-based pipelines and analytical products. My work spans **RAG architectures**, **multi-agent systems**, prompt design and API integration — combined with strong business-analysis skills: requirements definition, stakeholder alignment and governance-aligned delivery.
 
@@ -56,14 +54,7 @@ I'm currently contributing to **GenAI product initiatives at Akbank**, translati
 
 Across close to **7 years of professional experience** — including a strong presence in the Gulf and Qatar market — I've learned that staying relevant means staying curious. My real passion is **researching, learning and living inside the technology**: constantly adapting to every newly released tool and turning it into something useful for real businesses.
 
-</td>
-<td width="32%" valign="middle" align="center">
-
-<img src="assets/gh.JPG" width="100%" alt="Günal Hınçal" />
-
-</td>
-</tr>
-</table>
+<br clear="all" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/7-Sectors_Served-F2A93B?style=for-the-badge&labelColor=0A0E1F" />
@@ -124,70 +115,54 @@ Across close to **7 years of professional experience** — including a strong pr
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### 🧾 Document Intelligence SaaS &nbsp;`SaaS · Live`
-Production-ready SaaS built with Flask and the Claude Vision API. Extracts structured data from scanned invoices, generates pivot-table Excel exports and serves a bilingual TR/EN dashboard with PII masking and KVKK compliance.
-`Flask` · `Claude Vision` · `Excel Automation`
-[🔗 Live](https://document-intelligence-vaqj.onrender.com)
-
+<h4>🧾 Document Intelligence SaaS &nbsp;<code>SaaS · Live</code></h4>
+Production-ready SaaS built with Flask and the Claude Vision API. Extracts structured data from scanned invoices, generates pivot-table Excel exports and serves a bilingual TR/EN dashboard with PII masking and KVKK compliance.<br><br>
+<code>Flask</code> · <code>Claude Vision</code> · <code>Excel Automation</code><br>
+<a href="https://document-intelligence-vaqj.onrender.com">🔗 Live</a>
 </td>
 <td width="50%" valign="top">
-
-#### 📖 Book-Based RAG Chatbot &nbsp;`RAG · Live`
-Retrieval-Augmented Generation chatbot for the book *Megapik Yeniden* — contextual semantic querying of a full-length book, deployed as a live web application.
-`Gemini API` · `ChromaDB` · `FastAPI`
-[🔗 Live](https://megapikyenidenchatbot-production.up.railway.app) · [💻 Code](https://github.com/GunalHincal/Megapik_Yeniden_Chatbot)
-
+<h4>📖 Book-Based RAG Chatbot &nbsp;<code>RAG · Live</code></h4>
+Retrieval-Augmented Generation chatbot for the book <em>Megapik Yeniden</em> — contextual semantic querying of a full-length book, deployed as a live web application.<br><br>
+<code>Gemini API</code> · <code>ChromaDB</code> · <code>FastAPI</code><br>
+<a href="https://megapikyenidenchatbot-production.up.railway.app">🔗 Live</a> · <a href="https://github.com/GunalHincal/Megapik_Yeniden_Chatbot">💻 Code</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### 🧠 Azure OCR API &nbsp;`Open Source`
-Scalable RESTful API that automates text extraction from images and documents, supporting digitalization workflows and structured data processing.
-`Azure Computer Vision` · `FastAPI`
-[💻 Code](https://github.com/GunalHincal/azure-ocr-api)
-
+<h4>🧠 Azure OCR API &nbsp;<code>Open Source</code></h4>
+Scalable RESTful API that automates text extraction from images and documents, supporting digitalization workflows and structured data processing.<br><br>
+<code>Azure Computer Vision</code> · <code>FastAPI</code><br>
+<a href="https://github.com/GunalHincal/azure-ocr-api">💻 Code</a>
 </td>
 <td width="50%" valign="top">
-
-#### 🎧 Speech-to-Text Transcription App &nbsp;`Speech AI`
-Web app that transcribes audio/video up to 500MB into TXT, SRT and JSON, with an integrated mini-game to engage users during processing. Designed for SaaS deployment.
-`FastAPI` · `OpenAI Whisper`
-[💻 Code](https://github.com/GunalHincal/whisper-audio-to-text-app)
-
+<h4>🎧 Speech-to-Text Transcription App &nbsp;<code>Speech AI</code></h4>
+Web app that transcribes audio/video up to 500MB into TXT, SRT and JSON, with an integrated mini-game to engage users during processing. Designed for SaaS deployment.<br><br>
+<code>FastAPI</code> · <code>OpenAI Whisper</code><br>
+<a href="https://github.com/GunalHincal/whisper-audio-to-text-app">💻 Code</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### 🖼️ Quality Control Pipeline &nbsp;`Computer Vision`
-Image-based defect detection and packaging inspection system for a manufacturing client (Dardanel), with annotated outputs designed for non-technical QC operators.
-`FastAPI` · `Claude Vision`
-
+<h4>🖼️ Quality Control Pipeline &nbsp;<code>Computer Vision</code></h4>
+Image-based defect detection and packaging inspection system for a manufacturing client (Dardanel), with annotated outputs designed for non-technical QC operators.<br><br>
+<code>FastAPI</code> · <code>Claude Vision</code>
 </td>
 <td width="50%" valign="top">
-
-#### 📈 Retail Demand Forecasting &nbsp;`Forecasting`
-Store-level forecasting over 553K rows for Cevher Wheel — trend analysis, seasonal patterns and actionable inventory recommendations for management.
-`LightGBM` · `XGBoost` · `Random Forest`
-
+<h4>📈 Retail Demand Forecasting &nbsp;<code>Forecasting</code></h4>
+Store-level forecasting over 553K rows for Cevher Wheel — trend analysis, seasonal patterns and actionable inventory recommendations for management.<br><br>
+<code>LightGBM</code> · <code>XGBoost</code> · <code>Random Forest</code>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### ⚙️ Customer Complaint Automation &nbsp;`Automation`
-End-to-end automated workflow for Chef Seasons that collects product complaints from multiple channels and triggers personalized response emails, cutting manual processing time significantly.
-`Skystudio` · `API Orchestration`
-
+<h4>⚙️ Customer Complaint Automation &nbsp;<code>Automation</code></h4>
+End-to-end automated workflow for Chef Seasons that collects product complaints from multiple channels and triggers personalized response emails, cutting manual processing time significantly.<br><br>
+<code>Skystudio</code> · <code>API Orchestration</code>
 </td>
 <td width="50%" valign="top">
-
-#### 🔊 Text-to-Speech Tool &nbsp;`Accessibility`
-Python-based text-to-speech conversion tool enabling automated MP3 audio generation from text inputs for content and accessibility workflows.
-`Python` · `gTTS`
-
+<h4>🔊 Text-to-Speech Tool &nbsp;<code>Accessibility</code></h4>
+Python-based text-to-speech conversion tool enabling automated MP3 audio generation from text inputs for content and accessibility workflows.<br><br>
+<code>Python</code> · <code>gTTS</code>
 </td>
 </tr>
 </table>
@@ -279,40 +254,33 @@ Python-based text-to-speech conversion tool enabling automated MP3 audio generat
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**Education**
-
-**M.Sc. — Management Information Systems**
-Sakarya University, Business Institute · `Jan 2025 – Present`
-*Thesis: language-model training & fine-tuning for domain-specific NLP applications.*
-
-**B.Sc. — Physical Education & Sports Teaching**
-Hacettepe University, Faculty of Sport Sciences · `2006 – 2011`
-
+<b>Education</b><br><br>
+<b>M.Sc. — Management Information Systems</b><br>
+Sakarya University, Business Institute · <code>Jan 2025 – Present</code><br>
+<em>Thesis: language-model training &amp; fine-tuning for domain-specific NLP applications.</em><br><br>
+<b>B.Sc. — Physical Education &amp; Sports Teaching</b><br>
+Hacettepe University, Faculty of Sport Sciences · <code>2006 – 2011</code>
 </td>
 <td width="50%" valign="top">
-
-**Certifications & Training**
-
-- [**DP-900: Azure Data Fundamentals**](assets/certificates/dp-900.png) — KodeKloud, Oct 2024
-- [**Data Analyst Bootcamp**](assets/certificates/data-analyst-bootcamp.png) — Miuul, 2023 (140h)
-- [**Data Scientist Bootcamp**](assets/certificates/data-scientist-bootcamp.png) — Miuul, 2023 (4 mo)
-- [**Agile Bootcamp**](assets/certificates/agile-bootcamp.jpeg) — Miuul, 2023 (70h+)
-- [**Data Engineering Mini Bootcamp**](assets/certificates/data-engineering-mini-bootcamp.png) — VBO, 2023
-- **GenAI Fundamentals with Gemini** — Multigroup, 2025
-
+<b>Certifications &amp; Training</b><br><br>
+• <a href="assets/certificates/dp-900.png"><b>DP-900: Azure Data Fundamentals</b></a> — KodeKloud, Oct 2024<br>
+• <a href="assets/certificates/data-analyst-bootcamp.png"><b>Data Analyst Bootcamp</b></a> — Miuul, 2023 (140h)<br>
+• <a href="assets/certificates/data-scientist-bootcamp.png"><b>Data Scientist Bootcamp</b></a> — Miuul, 2023 (4 mo)<br>
+• <a href="assets/certificates/agile-bootcamp.jpeg"><b>Agile Bootcamp</b></a> — Miuul, 2023 (70h+)<br>
+• <a href="assets/certificates/data-engineering-mini-bootcamp.png"><b>Data Engineering Mini Bootcamp</b></a> — VBO, 2023<br>
+• <b>GenAI Fundamentals with Gemini</b> — Multigroup, 2025
 </td>
 </tr>
 </table>
 
 <sub>Plus Miuul course certificates in
-[Python](assets/certificates/python.pdf) ·
-[SQL](assets/certificates/sql.pdf) ·
-[Machine Learning](assets/certificates/machine-learning.pdf) ·
-[Feature Engineering](assets/certificates/feature-engineering.pdf) ·
-[NLP](assets/certificates/nlp.pdf) ·
-[Recommendation Systems](assets/certificates/recommendation-systems.pdf) ·
-[CRM Analytics](assets/certificates/crm-analytics.pdf).</sub>
+<a href="assets/certificates/python.pdf">Python</a> ·
+<a href="assets/certificates/sql.pdf">SQL</a> ·
+<a href="assets/certificates/machine-learning.pdf">Machine Learning</a> ·
+<a href="assets/certificates/feature-engineering.pdf">Feature Engineering</a> ·
+<a href="assets/certificates/nlp.pdf">NLP</a> ·
+<a href="assets/certificates/recommendation-systems.pdf">Recommendation Systems</a> ·
+<a href="assets/certificates/crm-analytics.pdf">CRM Analytics</a>.</sub>
 
 <br>
 
