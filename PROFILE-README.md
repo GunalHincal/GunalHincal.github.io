@@ -44,7 +44,7 @@
 
 ## 👋 `01` · About
 
-<img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/assets/gh.JPG" align="right" width="300" alt="Günal Hınçal" />
+<img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/assets/gh.JPG" align="right" width="240" alt="Günal Hınçal" />
 
 I'm an **AI-focused Business Analyst** and data professional with hands-on experience in Generative AI solutions, LLM-based pipelines and analytical products. My work spans **RAG architectures**, **multi-agent systems**, prompt design and API integration — combined with strong business-analysis skills: requirements definition, stakeholder alignment and governance-aligned delivery.
 
@@ -53,6 +53,7 @@ I'm currently contributing to **GenAI product initiatives at Akbank**, translati
 Across close to **7 years of professional experience** — including a strong presence in the Gulf and Qatar market — I've learned that staying relevant means staying curious. My real passion is **researching, learning and living inside the technology**: constantly adapting to every newly released tool and turning it into something useful for real businesses.
 
 <br clear="all" />
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/7-Sectors_Served-F2A93B?style=for-the-badge&labelColor=0A0E1F" />
