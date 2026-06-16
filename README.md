@@ -273,14 +273,7 @@ Hacettepe University, Faculty of Sport Sciences · <code>2006 – 2011</code>
 </tr>
 </table>
 
-<sub>Plus Miuul course certificates in
-<a href="assets/certificates/python.pdf">Python</a> ·
-<a href="assets/certificates/sql.pdf">SQL</a> ·
-<a href="assets/certificates/machine-learning.pdf">Machine Learning</a> ·
-<a href="assets/certificates/feature-engineering.pdf">Feature Engineering</a> ·
-<a href="assets/certificates/nlp.pdf">NLP</a> ·
-<a href="assets/certificates/recommendation-systems.pdf">Recommendation Systems</a> ·
-<a href="assets/certificates/crm-analytics.pdf">CRM Analytics</a>.</sub>
+<sub>Plus Miuul course certificates in <a href="assets/certificates/python.pdf">Python</a> · <a href="assets/certificates/sql.pdf">SQL</a> · <a href="assets/certificates/machine-learning.pdf">Machine Learning</a> · <a href="assets/certificates/feature-engineering.pdf">Feature Engineering</a> · <a href="assets/certificates/nlp.pdf">NLP</a> · <a href="assets/certificates/recommendation-systems.pdf">Recommendation Systems</a> · <a href="assets/certificates/crm-analytics.pdf">CRM Analytics</a>.</sub>
 
 <br>
 

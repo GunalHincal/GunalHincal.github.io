@@ -255,14 +255,7 @@ Hacettepe University, Faculty of Sport Sciences · <code>2006 – 2011</code>
 </tr>
 </table>
 
-<sub>Plus Miuul course certificates in
-<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/python.pdf">Python</a> ·
-<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/sql.pdf">SQL</a> ·
-<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/machine-learning.pdf">Machine Learning</a> ·
-<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/feature-engineering.pdf">Feature Engineering</a> ·
-<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/nlp.pdf">NLP</a> ·
-<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/recommendation-systems.pdf">Recommendation Systems</a> ·
-<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/crm-analytics.pdf">CRM Analytics</a>.</sub>
+<sub>Plus Miuul course certificates in <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/python.pdf">Python</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/sql.pdf">SQL</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/machine-learning.pdf">Machine Learning</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/feature-engineering.pdf">Feature Engineering</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/nlp.pdf">NLP</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/recommendation-systems.pdf">Recommendation Systems</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/crm-analytics.pdf">CRM Analytics</a>.</sub>
 
 <br>
 
