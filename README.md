@@ -57,9 +57,9 @@ I'm currently contributing to **GenAI product initiatives at Akbank**, translati
 Across close to **7 years of professional experience** — including a strong presence in the Gulf and Qatar market — I've learned that staying relevant means staying curious. My real passion is **researching, learning and living inside the technology**: constantly adapting to every newly released tool and turning it into something useful for real businesses.
 
 </td>
-<td width="32%" valign="top" align="center">
+<td width="32%" valign="middle" align="center">
 
-<img src="assets/gh.JPG" width="220" alt="Günal Hınçal" />
+<img src="assets/gh.JPG" width="180" alt="Günal Hınçal" />
 
 </td>
 </tr>
