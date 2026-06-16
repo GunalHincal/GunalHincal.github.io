@@ -1,1 +1,18 @@
+# ---- Editor / tooling ----
+.claude/
+.vscode/
+.idea/
+
+# ---- Python ----
 venv/
+__pycache__/
+*.py[cod]
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Logs / temp ----
+*.log
+*.tmp
