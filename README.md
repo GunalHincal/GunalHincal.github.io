@@ -46,7 +46,7 @@
 
 ## 👋 `01` · About
 
-<img src="assets/gh.JPG" align="right" width="240" alt="Günal Hınçal" />
+<img src="assets/gh.JPG" align="right" width="260" alt="Günal Hınçal" />
 
 I'm an **AI-focused Business Analyst** and data professional with hands-on experience in Generative AI solutions, LLM-based pipelines and analytical products. My work spans **RAG architectures**, **multi-agent systems**, prompt design and API integration — combined with strong business-analysis skills: requirements definition, stakeholder alignment and governance-aligned delivery.
 

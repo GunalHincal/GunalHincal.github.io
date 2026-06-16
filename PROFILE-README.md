@@ -4,6 +4,10 @@
 <!--  so nothing breaks when this lives in a different repo.                       -->
 <!-- ============================================================================ -->
 
+<!-- ============================================================= -->
+<!--                        HERO / BANNER                          -->
+<!-- ============================================================= -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/banner.png" alt="Günal Hınçal — AI Product & Generative AI Specialist" />
 </p>
@@ -42,9 +46,13 @@
 
 ---
 
+<!-- ============================================================= -->
+<!--                       01 · ABOUT                              -->
+<!-- ============================================================= -->
+
 ## 👋 `01` · About
 
-<img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/assets/gh.JPG" align="right" width="240" alt="Günal Hınçal" />
+<img src="https://raw.githubusercontent.com/GunalHincal/GunalHincal.github.io/main/assets/gh.JPG" align="right" width="260" alt="Günal Hınçal" />
 
 I'm an **AI-focused Business Analyst** and data professional with hands-on experience in Generative AI solutions, LLM-based pipelines and analytical products. My work spans **RAG architectures**, **multi-agent systems**, prompt design and API integration — combined with strong business-analysis skills: requirements definition, stakeholder alignment and governance-aligned delivery.
 
@@ -65,6 +73,10 @@ Across close to **7 years of professional experience** — including a strong pr
 <br>
 
 ---
+
+<!-- ============================================================= -->
+<!--                     02 · EXPERIENCE                           -->
+<!-- ============================================================= -->
 
 ## 💼 `02` · Experience
 
@@ -100,6 +112,10 @@ Across close to **7 years of professional experience** — including a strong pr
 <br>
 
 ---
+
+<!-- ============================================================= -->
+<!--                  03 · SELECTED PROJECTS                       -->
+<!-- ============================================================= -->
 
 ## 🚀 `03` · Selected Projects
 
@@ -163,6 +179,10 @@ Python-based text-to-speech conversion tool enabling automated MP3 audio generat
 <br>
 
 ---
+
+<!-- ============================================================= -->
+<!--                        04 · SKILLS                            -->
+<!-- ============================================================= -->
 
 ## 🛠️ `04` · Skills
 
@@ -232,6 +252,10 @@ Python-based text-to-speech conversion tool enabling automated MP3 audio generat
 
 ---
 
+<!-- ============================================================= -->
+<!--               05 · EDUCATION & CERTIFICATIONS                 -->
+<!-- ============================================================= -->
+
 ## 🎓 `05` · Education & Certifications
 
 <table>
@@ -262,6 +286,10 @@ Hacettepe University, Faculty of Sport Sciences · <code>2006 – 2011</code>
 
 ---
 
+<!-- ============================================================= -->
+<!--                     GITHUB DASHBOARD                          -->
+<!-- ============================================================= -->
+
 ## 📊 GitHub Dashboard
 
 <p align="center">
@@ -281,6 +309,10 @@ Hacettepe University, Faculty of Sport Sciences · <code>2006 – 2011</code>
 <br>
 
 ---
+
+<!-- ============================================================= -->
+<!--                    06 · GET IN TOUCH                          -->
+<!-- ============================================================= -->
 
 ## 📫 `06` · Get in Touch
 
